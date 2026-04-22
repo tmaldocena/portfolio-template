@@ -39,7 +39,7 @@ export function AboutSection() {
 
           {/* Scroll-linked character reveal */}
           <p className="text-xs sm:text-sm md:text-base max-w-2xl mx-auto leading-relaxed" style={{ color: '#DEDBC8' }}>
-            {chars.map((char, i) => (
+            {chars.map((char: string, i: number) => (
               <AnimatedLetter
                 key={i}
                 char={char}
