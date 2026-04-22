@@ -1,0 +1,258 @@
+{
+  "config": {
+    "language_mode": "bilingual",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/",
+      "behance": "https://behance.net/"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "portfolio": "Portfolio",
+      "about": "About me",
+      "contact": "Contact"
+    },
+    "hero": {
+      "brand": "Prisma",
+      "description": "Prisma is a worldwide network of visual artists, filmmakers and storytellers bound not by place, status or labels but by passion and hunger to unlock potential through our unique perspectives.",
+      "cta": "Join the lab"
+    },
+    "about": {
+      "label": "Visual arts",
+      "segments": [
+        "I am Name Name,",
+        "a self-taught director.",
+        "I have skills in color grading, visual effects, and narrative design."
+      ],
+      "body": "Over the last seven years, I have worked with Parallax, a Berlin-based production house that crafts cinema, series, and Noir Studio in Paris. Together, we have created work that has earned international acclaim at several major festivals.",
+      "expertise_title": "Expertise",
+      "expertise": [
+        {
+          "label": "Direction",
+          "value": "Narrative & Commercial"
+        },
+        {
+          "label": "Visuals",
+          "value": "VFX & Color Grading"
+        },
+        {
+          "label": "Design",
+          "value": "Production & Concept"
+        }
+      ]
+    },
+    "features": {
+      "header": "Studio-grade workflows for visionary creators.",
+      "subheader": "Built for pure vision. Powered by art.",
+      "learn_more": "Learn more",
+      "cards": [
+        {
+          "title": "Project Storyboard.",
+          "items": [
+            "Visual timeline for every project phase",
+            "Collaborative scene annotation tools",
+            "Export storyboards to PDF or shareable link",
+            "Real-time sync with your production team"
+          ],
+          "link": "#"
+        },
+        {
+          "title": "Smart Critiques.",
+          "items": [
+            "AI-powered visual analysis on every frame",
+            "Creative notes tied to timestamps",
+            "Integrates with Premiere, DaVinci, and Resolve"
+          ],
+          "link": "#"
+        },
+        {
+          "title": "Immersion Capsule.",
+          "items": [
+            "Silence all notifications in one tap",
+            "Curated ambient soundscapes for deep work",
+            "Schedule sync blocks directly to calendar"
+          ],
+          "link": "#"
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "Work",
+      "description": "An extended look into our creative process and the projects that define our vision. From visual storyboarding to high-end production.",
+      "projects": [
+        {
+          "title": "Neon Echoes",
+          "category": "Cinematic Short",
+          "client": "A24",
+          "description": "An experimental short film exploring the intersection of light, shadow, and human isolation in a sprawling cyberpunk metropolis. Shot exclusively on 16mm film.",
+          "media": "https://cdn.pixabay.com/video/2025/08/25/299577_large.mp4",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Urban Decay",
+          "category": "Documentary",
+          "client": "Vice Media",
+          "description": "A deep dive into the crumbling architectural heritage of post-industrial cities, featuring interviews with local historians and stunning drone cinematography.",
+          "media": "https://cdn.pixabay.com/video/2021/05/26/75347-555531958_large.mp4",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "Midnight Run",
+          "category": "Commercial",
+          "client": "Nike",
+          "description": "A high-octane commercial campaign highlighting the endurance of night-runners. We utilized high-speed car rigs and dynamic LED lighting setups.",
+          "media": "https://cdn.pixabay.com/video/2021/05/26/75354-555531962_large.mp4",
+          "link": "https://www.google.com"
+        },
+        {
+          "title": "The Awakening",
+          "category": "Music Video",
+          "client": "Odesza",
+          "description": "A surreal visual journey matching the ethereal soundscapes of the track, relying heavily on in-camera practical effects and advanced color grading.",
+          "media": "https://cdn.pixabay.com/video/2017/12/20/13495-248644905_large.mp4",
+          "link": "https://www.google.com"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Get in touch",
+      "inquiries_title": "Inquiries",
+      "inquiries_desc": "Available for freelance opportunities and collaborations worldwide. Let's create something extraordinary together.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "placeholder_name": "Your name",
+        "placeholder_email": "Your email",
+        "placeholder_message": "How can I help you?",
+        "submit": "Send Message"
+      }
+    }
+  },
+  "es": {
+    "nav": {
+      "home": "Inicio",
+      "portfolio": "Portfolio",
+      "about": "Sobre mí",
+      "contact": "Contacto"
+    },
+    "hero": {
+      "brand": "Prisma",
+      "description": "Prisma es una red global de artistas visuales, cineastas e historias unidos no por el lugar, el estatus o las etiquetas, sino por la pasión y las ganas de desbloquear el potencial a través de nuestras miradas únicas.",
+      "cta": "Súmate al lab"
+    },
+    "about": {
+      "label": "Artes visuales",
+      "segments": [
+        "Soy Marcus Chen,",
+        "director autodidacta.",
+        "Tengo habilidades en corrección de color, efectos visuales y diseño narrativo."
+      ],
+      "body": "Durante los últimos siete años, trabajé con Parallax, una productora de Berlín que crea cine y series, y con Noir Studio en París. Juntos, creamos piezas que ganaron reconocimiento internacional en varios festivales importantes.",
+      "expertise_title": "Experiencia",
+      "expertise": [
+        {
+          "label": "Dirección",
+          "value": "Narrativo y Comercial"
+        },
+        {
+          "label": "Visuales",
+          "value": "VFX y Color Grading"
+        },
+        {
+          "label": "Diseño",
+          "value": "Producción y Concepto"
+        }
+      ]
+    },
+    "features": {
+      "header": "Workflows de estudio para creadores visionarios.",
+      "subheader": "Creado para la visión pura. Impulsado por el arte.",
+      "learn_more": "Saber más",
+      "cards": [
+        {
+          "title": "Storyboard de Proyecto.",
+          "items": [
+            "Línea de tiempo visual para cada fase",
+            "Herramientas de anotación colaborativas",
+            "Exportación a PDF o links compartibles",
+            "Sincronización en tiempo real con tu equipo"
+          ],
+          "link": "#"
+        },
+        {
+          "title": "Críticas Inteligentes.",
+          "items": [
+            "Análisis visual con IA en cada fotograma",
+            "Notas creativas vinculadas al tiempo",
+            "Se integra con Premiere, DaVinci y Resolve"
+          ],
+          "link": "#"
+        },
+        {
+          "title": "Cápsula de Inmersión.",
+          "items": [
+            "Silencia notificaciones con un toque",
+            "Soundscapes ambientales para trabajo profundo",
+            "Sincroniza bloques de trabajo al calendario"
+          ],
+          "link": "#"
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "Proyectos",
+      "description": "Un vistazo profundo a nuestro proceso creativo y a los proyectos que definen nuestra visión. Desde storyboards visuales hasta producción de alto nivel.",
+      "projects": [
+        {
+          "title": "Ecos de Neón",
+          "category": "Corto Cinematográfico",
+          "client": "A24",
+          "description": "Un cortometraje experimental que explora la intersección entre la luz, la sombra y el aislamiento humano en una metrópolis cyberpunk. Filmado exclusivamente en 16mm.",
+          "media": "https://cdn.pixabay.com/video/2025/08/25/299577_large.mp4",
+          "link": "#"
+        },
+        {
+          "title": "Decadencia Urbana",
+          "category": "Documental",
+          "client": "Vice Media",
+          "description": "Una inmersión profunda en el patrimonio arquitectónico en ruinas de ciudades postindustriales, con entrevistas a historiadores y cinematografía con drones.",
+          "media": "https://cdn.pixabay.com/video/2021/05/26/75347-555531958_large.mp4",
+          "link": "#"
+        },
+        {
+          "title": "Carrera a Medianoche",
+          "category": "Comercial",
+          "client": "Nike",
+          "description": "Campaña publicitaria de alto octanaje que resalta la resistencia de los corredores nocturnos utilizando iluminación LED dinámica.",
+          "media": "https://cdn.pixabay.com/video/2021/05/26/75354-555531962_large.mp4",
+          "link": "#"
+        },
+        {
+          "title": "El Despertar",
+          "category": "Video Musical",
+          "client": "Odesza",
+          "description": "Un viaje visual surrealista combinado con los paisajes sonoros etéreos de la pista, basado en efectos prácticos.",
+          "media": "https://cdn.pixabay.com/video/2017/12/20/13495-248644905_large.mp4",
+          "link": "#"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Hablemos",
+      "inquiries_title": "Consultas",
+      "inquiries_desc": "Disponible para freelance y colaboraciones en todo el mundo. Creemos algo extraordinario juntos.",
+      "form": {
+        "name": "Nombre",
+        "email": "Email",
+        "message": "Mensaje",
+        "placeholder_name": "Tu nombre",
+        "placeholder_email": "Tu email",
+        "placeholder_message": "¿En qué puedo ayudarte?",
+        "submit": "Enviar Mensaje"
+      }
+    }
+  }
+}
