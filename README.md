@@ -2,7 +2,7 @@
 
 A high-end, minimalist portfolio web application designed for filmmakers, visual artists, and creative studios. Developed with a rigorous focus on aesthetic pacing, fluid animations, and a moody, cinematic visual identity.
 
-![Prisma Preview](https://imgur.com/gallery/prisma-portfolio-demo-UdxQQcr)
+![Prisma Preview](https://i.imgur.com/SjNlqFP.jpeg)
 
 ## Features
 
